@@ -1,4 +1,4 @@
-##👋 Hey there! I'm Espresso
+## 👋 Hey there! I'm Espresso
 
 I’m a developer who codes like a cat —<br/>
 curious, slightly chaotic, and deeply caffeinated. <br/>
