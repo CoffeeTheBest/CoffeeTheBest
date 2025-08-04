@@ -15,6 +15,7 @@ Passionate about:<br/>
 - and projects that make life (or at least bugs) a little better 🐞🚫<br/>
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Huzaifa Khan](https://www.linkedin.com/in/huzaifa-khan-b1ba3a375/))
 
