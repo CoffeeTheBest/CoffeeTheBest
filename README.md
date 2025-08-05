@@ -31,9 +31,9 @@ then fix it while pretending I totally meant to do that.<br/>
 <br/>
 
 Passionate about:<br/>
-- clean code ✨<br/>  
-- clever UI 🎨<br/>  
-- and projects that make life (or at least bugs) a little better 🐞🚫<br/>
+- clean code <br/>  
+- clever UI <br/>  
+- and projects that make life (or at least bugs) a little better <br/>
 
 ---
 ```
