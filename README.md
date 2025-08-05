@@ -51,7 +51,13 @@ Passionate about:<br/>
 >  
 > “To code is human. To debug is divine. To deploy on Friday is... brave.”  
 >
-> “Behind every successful developer is a substantial amount of coffee.”  
+> “Behind every successful developer is a substantial amount of coffee.”
+>
+> "I came. I coded. I broke production."
+>
+> "Commit early, commit often, commit like you believe in version control."
+>
+> “99 little bugs in the code, 99 bugs in the code… take one down, patch it around, 127 bugs in the code.”
 >
 > _Coffee: Because adulting is hard and bugs are persistent._
 
