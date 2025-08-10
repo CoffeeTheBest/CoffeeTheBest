@@ -46,6 +46,7 @@ Passionate about:<br/>
         `----'
 ```
 
+
 ## ☕️ Coffee Wisdom & Dev Humor
 
 > “First, solve the problem. Then, write the code. Then, drink coffee. Repeat.”  
