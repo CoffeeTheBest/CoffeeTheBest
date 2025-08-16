@@ -26,6 +26,7 @@ I’m a developer who codes like a cat —<br/>
 curious, slightly chaotic, and deeply caffeinated. <br/>
 <br/>
 
+
 I build cool stuff,  
 break it,<br/>
 then fix it while pretending I totally meant to do that.<br/>
