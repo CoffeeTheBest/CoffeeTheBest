@@ -70,6 +70,7 @@ Passionate about:<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-khan-b1ba3a375/)
 
 
+
 ---
 
 # 💻 Tech Stack:
